@@ -1,4 +1,4 @@
-# Hi 👋, I'm Maja Domalewska
+# Hi, I'm Maja Domalewska
 
 ### A passionate Typescript developer
 
