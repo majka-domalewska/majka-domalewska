@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **majadomalewska@gmail.com**
 
-- ⚡ Fun fact **I like sandwiches with a slice of cheese and strawberry jam on top. **
+- ⚡ Fun fact: **I like sandwiches with a slice of cheese and strawberry jam on top.**
 
 - 👨‍💻 All of my projects are available at **[https://portfolio-majka-made.vercel.app/](https://portfolio-majka-made.vercel.app/)**
 
