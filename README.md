@@ -2,9 +2,9 @@
 
 ### A passionate Typescript developer
 
-- 🔭 I'm currently working on **a personal Grocery Assistant**
+- 🔭 I'm currently working on **improving my personal portfolio**
 
-- 🌱 I'm currently learning **Flutter and Firebase**
+- 🌱 I'm currently learning **more Three.js and GSAP**
 
 - 👯 I'm looking to collaborate on **healthcare-related projects**
 
